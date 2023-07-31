@@ -1,0 +1,35 @@
+.header{
+    margin:1% 0 1%  15%;
+    padding: 10px;
+    width:70%;
+    border-bottom:1px solid wheat
+}
+.header .heading
+{
+    color:#e96e50;
+    font-weight:500;
+    font-size:25px;
+   
+}
+ .input-div
+{
+   background-image:radial-gradient(#e28d50,#e96e50);
+    height:110px;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+ margin-bottom: 10px;  } 
+.content
+{
+    margin:1% 0 1%  15%;
+    width: 70%;
+    
+}
+table{
+    border-top: 1px solid wheat;
+    width:100%;
+    
+}
+b{
+    font-weight: 600;
+}
